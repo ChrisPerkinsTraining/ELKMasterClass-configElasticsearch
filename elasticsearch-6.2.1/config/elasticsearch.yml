@@ -31,6 +31,7 @@
 # Path to directory where to store the data (separate multiple locations by comma):
 #
 #path.data: /path/to/data
+path.data: /home/chris/Training/ELKMasterClass/6.2.1/elasticsearch/elasticsearch-6.2.1/.elastic
 #
 # Path to log files:
 #
